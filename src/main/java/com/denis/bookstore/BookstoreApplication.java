@@ -1,13 +1,13 @@
-package com.denis.livraria;
+package com.denis.bookstore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LivrariaApplication {
+public class BookstoreApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LivrariaApplication.class, args);
+		SpringApplication.run(BookstoreApplication.class, args);
 	}
 
 }
